@@ -1,7 +1,7 @@
 <h1 align="center">Nawak05 Développeur - Lua</h1>
-<h3 align="center">Heys I'm Nawak I'm 17 I'm a developer</h3>
+<h3 align="center">Heys I'm Nawak I'm 18 I'm a developer</h3>
 
-- 🌱 I’m currently learning **Framerwork, Js, typescript, lua, html, react,I am currently learning English, Russian and Italian.**
+- - 🌱 I’m currently learning **Framerwork, Js, typescript, lua, html, react,I am currently learning English.**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
