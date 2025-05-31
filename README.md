@@ -3,7 +3,7 @@
 - - 🌱 Developpeur 
 - - Languages :  C++, c#, lua, js, html, css 
 
-- 📫 Discord : ❤Nawak05**
+- 📫 Discord : ❤Nawak05
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
