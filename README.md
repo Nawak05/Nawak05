@@ -1,7 +1,7 @@
 <h3 align="center">Heys I'm Nawak I'm 19 I'm a developer</h3>
 
-- - 🌱 Developpeur **
-- - Languages :  C++, c#, lua, js, html, css **
+- - 🌱 Developpeur 
+- - Languages :  C++, c#, lua, js, html, css 
 
 - 📫 Discord : ❤Nawak05**
 
