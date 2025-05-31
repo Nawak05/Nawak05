@@ -1,7 +1,7 @@
 <h1 align="center">Nawak05 Développeur - Lua</h1>
 <h3 align="center">Heys I'm Nawak I'm 19 I'm a developer</h3>
 
-- - 🌱 Developpeur C++, c#, lua, js, hmtl, css**
+- - 🌱 Developpeur C++, c#, lua, js, html, css**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
